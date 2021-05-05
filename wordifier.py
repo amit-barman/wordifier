@@ -12,7 +12,7 @@ if __name__ == "__main__" :
 		notification.notify(
 			title = "Lets learn a new Word",
 			message = (word[0]),
-			app_icon = "F:/random_word/icon/books_icon.ico",
+			app_icon = "icon/books_icon.ico",
 			timeout = 10
 		)
 		# this programe run in every 30 minute (60 second or 1 minute * 30 times = 30 minute)
