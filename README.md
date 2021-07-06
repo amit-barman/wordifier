@@ -1,7 +1,7 @@
 # wordifier
 
-wordifier is a simple script written in python which is giving a notification of a new english word in every 30 minute and in every
-using this script you can abel to boast your english vocabulary and lerning new english words...
+"wordifier" is a simple script written in python which is giving notification with a new english word in every 30 minute,
+using this script you can abel to lern lots of new english words and its enhance your english vocabulary 😊...
 
 # Features
 
@@ -10,13 +10,17 @@ using this script you can abel to boast your english vocabulary and lerning new 
 
 # how to install and use it ?
 
-```
-git clone https://github.com/amit-barman/wordifier.git
-```
- - or downloade zip file and extract it
+ ```
+   git clone https://github.com/amit-barman/wordifier.git
+ ```
+ - <b>or</b> download zip file and extract it
 
  - now go into <b>wordifier</b> folder and double click on <b>control.bat</b> file
- - now click on 1 for install all requirements
- - after all requirements successfully install type 2 for start and 3 for stop notification.
+ - now type 1 and hit enter button for install all requirements
+ - after all requirements successfully install, type 2 and hit enter for start <b>wordifier</b>".
+ ```
+   * Now "wordifier.py" script is automatically run on background and it will give notification in every 30 minuite with a new english word.
+ ```
+ - for stop <b>wordifier</b> type 3 and hit enter button in <b>controll.bat</b>.
 
 # Created By @Amit Barman
