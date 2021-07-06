@@ -19,7 +19,8 @@ using this script you can abel to lern lots of new english words and its enhance
  - now type 1 and hit enter button for install all requirements
  - after all requirements successfully install, type 2 and hit enter for start <b>wordifier</b>".
  ```
-   * Now "wordifier.py" script is automatically run on background and it will give notification in every 30 minuite with a new english word.
+   * Now "wordifier.py" script is automatically run on background and it will give notification
+     in every 30 minuite with a new english word.
  ```
  - for stop <b>wordifier</b> type 3 and hit enter button in <b>controll.bat</b>.
 
