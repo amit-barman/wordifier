@@ -1,7 +1,7 @@
 # wordifier
 
-"wordifier" is a simple script written in python which is giving notification with a new english word in every 30 minute,
-using this script you can abel to lern lots of new english words and its enhance your english vocabulary 😊...
+"wordifier" is a simple script written in python it's gives notification in every 30 minute with a new english word,
+using this script you can abel to lern lots of new english words and its enhance your english vocabulary😊...
 
 # Features
 
